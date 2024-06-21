@@ -10,7 +10,7 @@
     "license": "MIT",
     "private": true,
     "type": "commonjs",
-    "main": "./dist/index.js",
+    "main": "./dist/index.cjs",
     "scripts": {
         "build": "tsc -p tsconfig.build.json"
     },
